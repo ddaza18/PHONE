@@ -1,7 +1,7 @@
 # PHONE
 Localizador de Telefono en Terminal (PROCESO)
 
-- Para instalar (Prubado en Kali Linux)
+- Para instalar (Probado en Kali Linux)
 - git clone https://github.com/ddaza18/PHONE.git
 - cd Phone
 - pip3 install -r requeriments.txt (Instalar los requerimientos del .txt)
